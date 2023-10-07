@@ -9,7 +9,11 @@ int main(){
     printf("%d\n",c + ++d);
 
 
+/* 
     int e = 3, f = 4;
     printf("%d",e+++++f);
+*/
+
+// will produce error lvalue is required
     return 0;
 }
