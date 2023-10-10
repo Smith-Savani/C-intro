@@ -8,3 +8,5 @@ int main(){
     printf("The value of a*b+c is %d",5*sum(a,b));
     return 0;
 }
+
+//demonstration of first expand then evaluation
