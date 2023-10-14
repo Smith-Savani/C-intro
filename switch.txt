@@ -1,0 +1,5 @@
+about switch 
+
+variable expressions are not allowed in switch but MACRO  are allowed 
+
+default can be placed anywhre inside switch though it will only evaluated only if no match is found
